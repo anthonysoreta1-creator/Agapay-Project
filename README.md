@@ -16,7 +16,6 @@ course at Batangas State University.
 ## 💻 Technologies Used
 - HTML
 - CSS
-- JavaScript
 
 ## 🎯 Objective
 To raise awareness about disaster preparedness and provide 
